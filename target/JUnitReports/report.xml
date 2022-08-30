@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="12.22">
+<testcase classname="Search Feature on Verint.com" name="Search Option and Verify" time="11.907">
+<system-out><![CDATA[Given User opening browser and navigate to Url..............................passed
+Then User click searchButton................................................passed
+And User input to text field................................................passed
+Then Validate the result....................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
